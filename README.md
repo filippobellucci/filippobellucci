@@ -3,7 +3,7 @@
 
 <br>
 
-<img align="right" alt="coding" width="480" src="https://user-images.githubusercontent.com/117976345/209581957-9c7e67e8-6dcf-414e-8e1c-288a9ab10429.gif">
+<img align="right" alt="coding" width="480" src="https://user-images.githubusercontent.com/117976345/209582265-8b85966a-a35d-46f8-bac7-fd71ef8960a4.gif">
 
 - 🔭 I’m currently working on [CLYF](https://github.com/filippobellucci/CLYF-seriousgame)
 
